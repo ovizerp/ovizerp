@@ -1,7 +1,5 @@
 ### OVIZ SmartERP
-
-<!--
-**OVIZ SmartERP adalah pelopor aplikasi ERP yang dapat dikustomisasi sesuai flow bisnis di perusahaan.
+OVIZ SmartERP adalah pelopor aplikasi ERP yang dapat dikustomisasi sesuai flow bisnis di perusahaan.
 Anda seolah dapat menciptakan ERP sendiri karena sesuai dengan kebutuhan di bisnis Anda.
 
 Modul yang tersedia:
@@ -13,4 +11,3 @@ Modul yang tersedia:
 - Account&Ledger
 - Fixed Asset
 - Project
--->
