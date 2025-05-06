@@ -1,5 +1,6 @@
 
-![oviz erp v3](https://github.com/user-attachments/assets/afd5c21a-f7dc-4bc0-b61e-5eb6ffc39eb0)
+![oviz erp v3](https://github.com/user-attachments/assets/afd5c21a-f7dc-4bc0-b61e-5eb6ffc39eb0) ![oviz erp v2](https://github.com/user-attachments/assets/8fbd9a12-79f3-4d6a-a781-b22ed6eee495)
+
 
 **OVIZ ERP** adalah produk ERP terintegrasi berbasis desktop portable yang dapat diakses darimana saja dan kapan saja yang dapat membantu perusahaan untuk mengontrol aktivitas di perusahaan.
 
