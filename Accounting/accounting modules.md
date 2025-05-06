@@ -4,15 +4,19 @@
 Invoice&Ledger
 Modul untuk membantu tim akunting dalam memonitor tagihan, utang piutang, laba atau rugi perusahaan dan arus kas perusahaan
 1. Mengelola master data, seperti currency, terms of payment, department, taxes, tax number, chart of account, product, supplier dan customer
+
 2. Vendor Bills
   - Purchase Invoice, mencatat penagihan dari supplier
   - Advance Purchase, mencatat tagihan atas uang muka ke supplier
   - Debit Note, mencatat retur atas penerimaan barang
+
 3. Customer Bills
   - Sales Invoice, mencatat penagihan ke customer
   - Advance Sales, mencatat tagihan atas uang muka ke customer
   - Credit Note, mencatat retur atas pengiriman barang
+
 4. Journal Entry
+
 5. Laporan
   - Ageing Payable Summary, rekap umur utang per supplier
   - Ageing Payable Detail, laporan umur utang per supplier per invoice
