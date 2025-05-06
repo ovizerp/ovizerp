@@ -1,8 +1,8 @@
 
-![oviz erp v3](https://github.com/user-attachments/assets/afd5c21a-f7dc-4bc0-b61e-5eb6ffc39eb0) ![oviz erp v2](https://github.com/user-attachments/assets/8fbd9a12-79f3-4d6a-a781-b22ed6eee495)
+![oviz erp v3](https://github.com/user-attachments/assets/afd5c21a-f7dc-4bc0-b61e-5eb6ffc39eb0) 
 
 
-**OVIZ ERP** adalah produk ERP terintegrasi berbasis desktop portable yang dapat diakses darimana saja dan kapan saja yang dapat membantu perusahaan untuk mengontrol aktivitas di perusahaan.
+**OVIZ ERP v3** adalah produk ERP terintegrasi berbasis desktop portable yang dapat diakses darimana saja dan kapan saja yang dapat membantu perusahaan untuk mengontrol aktivitas di perusahaan.
 
 OVIZ ERP berjalan di lingkungan Windows dengan menggunakan OS minimal Windows 7. Database server bisa ditempatkan di server internal perusahaan atau di cloud server milik perusahaan atau di server milik kami.
 
@@ -23,3 +23,6 @@ Modul yang tersedia:
 - Fleet&Rental
 - Attendance
 - Payroll
+
+OVIZ ERP v2
+![oviz erp v2](https://github.com/user-attachments/assets/8fbd9a12-79f3-4d6a-a781-b22ed6eee495)
