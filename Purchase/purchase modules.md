@@ -1,5 +1,6 @@
-[Alt Text](https://github.com/ovizerp/ovizerp/blob/64a75b3b1657e22ab437b8724e9993d15b822c8e/Images/oviz%20erp%20v3.JPG)
-Modul untuk bagian Purchasing untuk mengelola permintaan dan pemesanan barang demi menjaga stabilitas stok dan proses awal procurement
+
+Modul untuk![oviz erp v3](https://github.com/user-attachments/assets/293e86e9-05e4-4b25-a7ca-f67bd2d840d9)
+ bagian Purchasing untuk mengelola permintaan dan pemesanan barang demi menjaga stabilitas stok dan proses awal procurement
 1. Master Data
     a) Shipment, terms of payment, supplier, kontak, rekening supplier
     b) Master barang dan jasa serta harga
