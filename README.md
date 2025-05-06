@@ -9,15 +9,15 @@ OVIZ ERP adalah ERP handal yang memadukan proses bisnis yang telah di standarisa
 Laporan keuangan disajikan dalam rupiah, multi currency, multi warehouse, modul manufaktur lengkap, costing menggunakan FIFO dan AVERAGE. UI layaknya aplikasi spreadsheet sehingga user yang terbiasa bekerja dengan spreadsheet akan dengan cepat beradaptasi.
 
 Modul yang tersedia:
-    Purchase
-    Inventory&Warehouse
-    Manufacture
-    Sales
-    Account&Ledger
-    Fixed Asset
-    Project
-    Point of Sales
-    Clinic
-    Fleet&Rental
-    Attendance
-    Payroll
+- Purchase
+- Inventory&Warehouse
+- Manufacture
+- Sales
+- Account&Ledger
+- Fixed Asset
+- Project
+- Point of Sales
+- Clinic
+- Fleet&Rental
+- Attendance
+- Payroll
